@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c1",
+    "name": "Sarah Connor",
+    "email": "sarah@cyberdyne.org",
+    "tag": "VIP",
+    "createdAt": "2026-09-20T15:13:38.976Z"
+  },
+  {
+    "id": "c2",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "tag": "Lead",
+    "createdAt": "2026-09-21T15:13:38.976Z"
+  },
+  {
+    "id": "c3",
+    "name": "Emma Watson",
+    "email": "emma@studio.io",
+    "tag": "Customer",
+    "createdAt": "2026-09-22T15:13:38.976Z"
+  }
+]

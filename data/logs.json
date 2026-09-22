@@ -1,0 +1,27 @@
+[
+  {
+    "id": "l1",
+    "resendId": "re_8a9b2c3d_sim",
+    "to": "john@example.com",
+    "from": "onboarding@resend.dev",
+    "subject": "Welcome to our platform",
+    "body": "Hi John,\n\nWelcome to our private beta! We are excited to have you on board.",
+    "status": "delivered",
+    "createdAt": "2026-09-22T11:13:38.976Z",
+    "isSimulated": true
+  },
+  {
+    "id": "l2",
+    "resendId": "re_4f5e6d7c_sim",
+    "to": [
+      "sarah@cyberdyne.org",
+      "emma@studio.io"
+    ],
+    "from": "onboarding@resend.dev",
+    "subject": "Product Roadmap Update",
+    "body": "Here are the new features planned for release this quarter.",
+    "status": "delivered",
+    "createdAt": "2026-09-22T13:13:38.976Z",
+    "isSimulated": true
+  }
+]
